@@ -1,0 +1,32 @@
+hystérie;514.585960
+épilepsie;504.574216
+tremblement;230.801726
+aphasie;142.733812
+chorée;139.987227
+hypnose;34.022212
+tabès dorsalis;33.845013
+paralysie agitante;29.503637
+fugue;28.617642
+sclérose latérale amyotrophique;25.693858
+localisation cérébrale;25.516659
+atrophie musculaire progressive;23.656069
+athétose;18.960295
+clonus;15.947912
+ataxie locomotrice progressive;13.467126
+migraine ophtalmique;12.049534
+anévrisme miliaire;11.517936
+tic convulsif;9.391548
+astasie-abasie;9.302949
+maladie de Parkinson;7.708157
+tabès dorsalis spasmodique;5.227371
+bulbe rachidien;4.252777
+pachyméningite cervicale hypertrophique;4.252777
+sclérose en plaques disséminées;3.986978
+méthode anatomo-clinique;3.898378
+coupe verticale;3.809779
+arthropathie tabétique;2.923784
+glossy skin;0.708796
+thrombose de l'artère cérébrale postérieure;0.354398
+maladie de Gilles de la Tourette;0.265799
+syndrome de Parkinson;0.177199
+systématisation de la moelle;0.177199

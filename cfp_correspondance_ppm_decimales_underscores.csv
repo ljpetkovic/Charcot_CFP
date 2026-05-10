@@ -1,0 +1,65 @@
+corpus,expression_originale,label_underscores,valeur_ppm
+Charcot,hystérie,hysterie,514.585960
+Charcot,épilepsie,epilepsie,504.574216
+Charcot,tremblement,tremblement,230.801726
+Charcot,aphasie,aphasie,142.733812
+Charcot,chorée,choree,139.987227
+Charcot,hypnose,hypnose,34.022212
+Charcot,tabès dorsalis,tabes_dorsalis,33.845013
+Charcot,paralysie agitante,paralysie_agitante,29.503637
+Charcot,fugue,fugue,28.617642
+Charcot,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,25.693858
+Charcot,localisation cérébrale,localisation_cerebrale,25.516659
+Charcot,atrophie musculaire progressive,atrophie_musculaire_progressive,23.656069
+Charcot,athétose,athetose,18.960295
+Charcot,clonus,clonus,15.947912
+Charcot,ataxie locomotrice progressive,ataxie_locomotrice_progressive,13.467126
+Charcot,migraine ophtalmique,migraine_ophtalmique,12.049534
+Charcot,anévrisme miliaire,anevrisme_miliaire,11.517936
+Charcot,tic convulsif,tic_convulsif,9.391548
+Charcot,astasie-abasie,astasie_abasie,9.302949
+Charcot,maladie de Parkinson,maladie_de_parkinson,7.708157
+Charcot,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,5.227371
+Charcot,bulbe rachidien,bulbe_rachidien,4.252777
+Charcot,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,4.252777
+Charcot,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,3.986978
+Charcot,méthode anatomo-clinique,methode_anatomo_clinique,3.898378
+Charcot,coupe verticale,coupe_verticale,3.809779
+Charcot,arthropathie tabétique,arthropathie_tabetique,2.923784
+Charcot,glossy skin,glossy_skin,0.708796
+Charcot,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,0.354398
+Charcot,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,0.265799
+Charcot,syndrome de Parkinson,syndrome_de_parkinson,0.177199
+Charcot,systématisation de la moelle,systematisation_de_la_moelle,0.177199
+Autres,hystérie,hysterie,368.023573
+Autres,épilepsie,epilepsie,258.384371
+Autres,tremblement,tremblement,195.292354
+Autres,hypnose,hypnose,162.915146
+Autres,chorée,choree,79.716012
+Autres,aphasie,aphasie,73.541385
+Autres,athétose,athetose,33.247989
+Autres,fugue,fugue,16.386509
+Autres,clonus,clonus,16.228185
+Autres,atrophie musculaire progressive,atrophie_musculaire_progressive,15.278243
+Autres,paralysie agitante,paralysie_agitante,12.745062
+Autres,maladie de Parkinson,maladie_de_parkinson,11.399310
+Autres,tabès dorsalis,tabes_dorsalis,11.399310
+Autres,coupe verticale,coupe_verticale,11.161825
+Autres,arthropathie tabétique,arthropathie_tabetique,10.766015
+Autres,bulbe rachidien,bulbe_rachidien,8.311997
+Autres,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,6.887083
+Autres,tic convulsif,tic_convulsif,5.620493
+Autres,localisation cérébrale,localisation_cerebrale,5.224684
+Autres,astasie-abasie,astasie_abasie,4.037256
+Autres,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,2.612342
+Autres,migraine ophtalmique,migraine_ophtalmique,2.295694
+Autres,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,1.820723
+Autres,ataxie locomotrice progressive,ataxie_locomotrice_progressive,1.345752
+Autres,méthode anatomo-clinique,methode_anatomo_clinique,0.791619
+Autres,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,0.791619
+Autres,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,0.474971
+Autres,glossy skin,glossy_skin,0.395809
+Autres,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,0.237486
+Autres,systématisation de la moelle,systematisation_de_la_moelle,0.237486
+Autres,anévrisme miliaire,anevrisme_miliaire,0.079162
+Autres,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,0.079162
